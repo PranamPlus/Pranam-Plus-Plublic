@@ -69,7 +69,8 @@ We value your privacy and are committed to protecting your personal data. to che
 
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
 
-- **Email**: suppo.pranam.plus@gmail.com  
+- **Email**: suppo.pranam.plus@gmail.com
+- **Address**: Pranam Plus, near Mastram Mandir, Botad, Gujarat-364710, India
 
 ---
 

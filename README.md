@@ -47,6 +47,18 @@ To make healthcare more accessible by providing a reliable and efficient platfor
 
 ---
 
+## 🔒 Terms and Conditions
+
+To Refer our Terms and conditions visit: [Terms and Conditions Link]([https://pranamplus.github.io/Pranam-Plus-Plublic/privacy_policy.html](https://pranamplus.github.io/Pranam-Plus-Plublic/terms_and_conditions.html)
+
+---
+
+## 🔒 Refund Policy
+
+To Refer our Refund Policy visit: [Refund Policy Link]([https://pranamplus.github.io/Pranam-Plus-Plublic/privacy_policy.html](https://pranamplus.github.io/Pranam-Plus-Plublic/refund_policy.html)
+
+---
+
 ## 🔒 Privacy Policy
 
 We value your privacy and are committed to protecting your personal data. to check our privacy policy visit: [Privacy Policy Link](https://pranamplus.github.io/Pranam-Plus-Plublic/privacy_policy.html)
